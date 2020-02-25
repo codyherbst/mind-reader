@@ -1,0 +1,13 @@
+.container {
+    max-width: 250px;
+    min-height: 500px;
+
+    text-align: center;
+    overflow: scroll;
+}
+
+h1 {
+    overflow: scroll;
+    max-height: 300px;
+    min-height: 300px;
+}
