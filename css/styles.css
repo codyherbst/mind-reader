@@ -1,9 +1,17 @@
-.container {
+#container {
     max-width: 250px;
     min-height: 500px;
 
     text-align: center;
     overflow: scroll;
+}
+
+#container2 {
+    min-height: 50px;
+}
+
+#container3 {
+    min-height: 75px;
 }
 
 h1 {
